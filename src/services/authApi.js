@@ -1,7 +1,7 @@
 // src/services/authAPI.js
 
 // Update this URL to match your backend server
-const API_URL = 'http://localhost:5000/api'; // or your backend URL
+const API_URL = 'http://localhot:5000/api'; // or your backend URL
 
 // Function to handle user registration
 export const registerUser = async (userData) => {
